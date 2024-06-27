@@ -10,7 +10,7 @@
   <img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
 </a>
 <a href="https://www.linkedin.com/in/talut-salako/" target="_blank">
-  <img src="/assets/linkedin.svg" alt="LinkedIn" /> linkedin.com/in/talut-salako
+  <img src="./assets/linkedin.svg" alt="LinkedIn" /> linkedin.com/in/talut-salako
 </a>
 </span>
 
