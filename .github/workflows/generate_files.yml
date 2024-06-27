@@ -20,14 +20,14 @@ jobs:
         with:
           args: >-
             --output=output/result.pdf
-            ./src/resume.md
+            resume.md
         
       - name: pandoc generate html
         uses: docker://pandoc/latex
         with:
           args: >-
             --output=output/result.html
-            ./src/resume.md
+            resume.md
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4.3.3
