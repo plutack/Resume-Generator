@@ -25,11 +25,6 @@ jobs:
         with:
           args: --output=output/result.html
 
-      - name: Convert Markdown to PDF
-        run: |
-          pandoc -s resume.md -o output/resume.pdf --pdf-engine=xelatex
-        working-directory: ${{ github.workspace }}
-
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v3
         with:
