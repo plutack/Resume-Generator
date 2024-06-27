@@ -1,4 +1,6 @@
+<base href="https://raw.githubusercontent.com/plutack/Resume-Generator/main/">
 <link rel="stylesheet"  href="./style.css">
+
 <span class="name">Talut Salako</span>
 
 <span class="basic-information">
