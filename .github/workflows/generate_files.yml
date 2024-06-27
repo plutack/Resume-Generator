@@ -7,10 +7,10 @@ on:
 
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu@latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@latest
+        uses: actions/checkout@v4.1.7
         
       - name: Create output directory and use pandoc
         run: mkdir output
@@ -30,13 +30,13 @@ jobs:
             ./src/resume.md
 
       - name: Upload PDF artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.3.3
         with:
           name: resume-pdf
           path: output/resume.pdf
 
       - name: Upload HTML artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.3.3
         with:
           name: resume-html
           path: output/resume.html
