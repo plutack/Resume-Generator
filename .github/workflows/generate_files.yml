@@ -1,0 +1,41 @@
+name: Convert Resume to PDF and HTML
+
+on:
+  push:
+    branches:
+      - "**"  # Trigger on all branch pushes
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Pandoc
+        uses: docker://pandoc/latex:2.9  # Use Pandoc Docker image with LaTeX
+
+      - name: Create output directory
+        run: mkdir output
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc -s resume.md -o output/resume.pdf --pdf-engine=xelatex
+        working-directory: ${{ github.workspace }}
+
+      - name: Convert Markdown to HTML
+        run: |
+          pandoc -s resume.md -o output/resume.html
+        working-directory: ${{ github.workspace }}
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf
+          path: output/resume.pdf
+
+      - name: Upload HTML artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-html
+          path: output/resume.html
