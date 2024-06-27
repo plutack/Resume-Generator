@@ -3,7 +3,7 @@ name: Convert Resume to PDF and HTML
 on:
   push:
     branches:
-      - "**"  # Trigger on all branch pushes
+      - "**" # Trigger on all branch pushes
 
 jobs:
   convert_via_pandoc:
@@ -11,26 +11,27 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.1.7
-        
+
       - name: Create output directory and use pandoc
         run: |
           mkdir output
           cp style.css output/
-        
-      - name: pandoc generate pdf
-        uses: docker://pandoc/latex
-        with:
-          args: >-
-            --output=output/result.pdf
-            --css=style.css
-            resume.md
-        
+
       - name: pandoc generate html
         uses: docker://pandoc/latex
         with:
           args: >-
             --standalone
-            --output=output/result.html
+            --output=output/resume.html
+            --css=style.css
+            resume.md
+
+      - name: pandoc generate pdf
+        uses: docker://fortinetsolutioncse/pandoc-wk
+        with:
+          args: >-
+            --to=html
+            --output=output/resume.pdf
             --css=style.css
             resume.md
 
