@@ -2,13 +2,13 @@
 <span class="name">Talut Salako</span>
 
 <span class="basic-information">
-[![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
-[![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
+[![Phone](https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
+[![Mail](https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
 <a href="https://github.com/plutack" target="_blank">
-  <img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
+  <img src="https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/github.svg" alt="GitHub" /> github.com/plutack
 </a>
 <a href="https://www.linkedin.com/in/talut-salako/" target="_blank">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" /> linkedin.com/in/talut-salako
+  <img src="https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/linkedin.svg" alt="LinkedIn" /> linkedin.com/in/talut-salako
 </a>
 </span>
 
