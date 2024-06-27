@@ -11,21 +11,23 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Set up Pandoc
-        uses: docker://pandoc/latex:2.9  # Use Pandoc Docker image with LaTeX
-
-      - name: Create output directory
+        
+      - name: Create output directory and use pandoc
         run: mkdir output
+        
+      - name: pandoc generate pdf
+        uses: docker://pandoc/latex:2.9 
+        with:
+          args: --output=output/result.pdf
+        
+      - name: pandoc generate html
+        uses: docker://pandoc/latex:2.9 
+        with:
+          args: --output=output/result.html
 
       - name: Convert Markdown to PDF
         run: |
           pandoc -s resume.md -o output/resume.pdf --pdf-engine=xelatex
-        working-directory: ${{ github.workspace }}
-
-      - name: Convert Markdown to HTML
-        run: |
-          pandoc -s resume.md -o output/resume.html
         working-directory: ${{ github.workspace }}
 
       - name: Upload PDF artifact
