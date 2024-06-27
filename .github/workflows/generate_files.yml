@@ -26,16 +26,12 @@ jobs:
         uses: docker://pandoc/latex
         with:
           args: >-
+            --standalone
             --output=output/result.html
+            --css=style.css
             resume.md
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4.3.3
+      - uses: actions/upload-artifact@v4.3.3
         with:
-          name: resume-pdf
-          path: output/resume.pdf
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: output
+          name: resume
           path: output
