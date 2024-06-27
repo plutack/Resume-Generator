@@ -16,7 +16,7 @@ jobs:
         run: |
           mkdir output
           cp style.css output/
-          cp assets output/
+          cp -r assets output/
 
       - name: pandoc generate html
         uses: docker://pandoc/latex
