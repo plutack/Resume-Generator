@@ -2,7 +2,7 @@
 <span class="name">Talut Salako</span>
 
 <span class="basic-information">
-[![Phone](https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
+[![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
 [![Mail](https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
 <a href="https://github.com/plutack" target="_blank">
   <img src="https://raw.githubusercontent.com/plutack/Resume-Generator/main/assets/github.svg" alt="GitHub" /> github.com/plutack
