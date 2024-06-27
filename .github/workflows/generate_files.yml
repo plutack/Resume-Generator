@@ -31,7 +31,7 @@ jobs:
         with:
           args: >-
             --to=html
-            --enable-local-file-access
+            --enable-local-file-access=true
             --output=output/resume.pdf
             --css=style.css
             resume.md
