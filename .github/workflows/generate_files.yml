@@ -27,14 +27,9 @@ jobs:
             resume.md
 
       - name: pandoc generate pdf
-        uses: docker://fortinetsolutioncse/pandoc-wk
+        uses: docker://surnet/alpine-wkhtmltopdf:3.20.0-0.12.6-full
         with:
-          args: >-
-            --to=html
-            --enable-local-file-access=true
-            --output=output/resume.pdf
-            --css=style.css
-            resume.md
+          run: wkhtmltopdf ./output/resume.html ./output/resume.pdf
 
       - uses: actions/upload-artifact@v4.3.3
         with:
