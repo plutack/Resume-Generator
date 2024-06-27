@@ -3,7 +3,6 @@
 
 <span class="basic-information">
 [![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
-)
 [![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
 <a href="https://github.com/plutack" target="_blank">
   <img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
