@@ -13,13 +13,16 @@ jobs:
         uses: actions/checkout@v4.1.7
         
       - name: Create output directory and use pandoc
-        run: mkdir output
+        run: |
+          mkdir output
+          cp style.css output/
         
       - name: pandoc generate pdf
         uses: docker://pandoc/latex
         with:
           args: >-
             --output=output/result.pdf
+            --css=style.css
             resume.md
         
       - name: pandoc generate html
