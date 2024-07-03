@@ -28,7 +28,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Tools used: React, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:
     - Github Repo: [github.com/plutack/Newspaper-Frontpage-Aggregator ](https://github.com/plutack/Newspaper-Frontpage-Aggregator)
-    - 
+
 ### Newspaper Frontpage Aggregator  
 - Description: A simple websocket chatbot to other meals from a restaurant
 - Tools used: Htmx, css, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
