@@ -3,15 +3,19 @@
 <span class="name">Talut Salako</span>
 
 <span class="basic-information">
-[![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940)
-[![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
+[![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940) | 
+[![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com) | 
 <a href="https://github.com/plutack" target="_blank">
   <img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
-</a>
+</a> | 
 <a href="https://www.linkedin.com/in/talut-salako/" target="_blank">
   <img src="./assets/linkedin.svg" alt="LinkedIn" /> linkedin.com/in/talut-salako
 </a>
 </span>
+
+
+## About Me
+As a self-taught backend developer, my journey has been fueled by a deep passion for JavaScript and a relentless curiosity for emerging technologies. I thrive on transforming complex ideas into elegant, scalable solutions, leveraging my expertise in building robust APIs and optimizing database performance. Beyond coding, you'll often find me immersed in tech articles, constantly seeking new insights to refine my craft and stay ahead in this fast-paced industry. I am driven by the challenge of solving real-world problems and the satisfaction of seeing my solutions make a meaningful impact.
 
 ## Education
 
@@ -21,15 +25,22 @@
 
 ### Newspaper Frontpage Aggregator  
 - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
-- Tools used: HTMX, Javascript, MongoDB,Mongoose, NodeJS , Expressjs, 
+- Tools used: React, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:
     - Github Repo: [github.com/plutack/Newspaper-Frontpage-Aggregator ](https://github.com/plutack/Newspaper-Frontpage-Aggregator)
-    - Live Preview: [url display name](url link)
 
 ## Technical Skills
-- Programming Langauages: Javascript, Python, Go
-- Technologies & Frameworks: MySQL, MongoDB, RESTful APIs, Express.js, Mongoose
-- Tools & Enviroments: Neovim, Helix, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows
+- Programming Langauages: Javascript, Typescript, Python, Go
+- Technologies & Frameworks
+  - Frontend: HTML, HTMX, CSS, JS, ReactJS
+  - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs
+- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows
+
+## Courses
+### FrontendMasters: Everything You'll Need to Know About Git 
+### FrontendMasters: The Last Algorithms Course You'll Need
+### Blazingly Fast JavaScript
+
 
 ## Hobby
 - Gaming
