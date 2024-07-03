@@ -31,7 +31,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### Newspaper Frontpage Aggregator  
 - Description: A simple websocket chatbot to other meals from a restaurant
-- Tools used: Htmx, css, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
+- Tools used: Htmx, css, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, Cloudinary services
 - Links:
     - Github Repo: [github.com/plutack/Restaurant-Chat-Bot](https://github.com/plutack/Restaurant-Chat-Bot)
     - Live Preview: [restaurant-chat-bot-taa0.onrender.com](https://restaurant-chat-bot-taa0.onrender.com)
@@ -40,7 +40,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Programming Langauages: Javascript, Typescript, Python, Go
 - Technologies & Frameworks
   - Frontend: HTML, HTMX, CSS, JS, ReactJS
-  - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs
+  - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
 - Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows
 
 ## Courses
