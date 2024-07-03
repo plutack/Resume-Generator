@@ -44,9 +44,9 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows
 
 ## Courses
-### FrontendMasters: Everything You'll Need to Know About Git 
-### FrontendMasters: The Last Algorithms Course You'll Need
-### Blazingly Fast JavaScript
+- FrontendMasters: Everything You'll Need to Know About Git 
+- FrontendMasters: The Last Algorithms Course You'll Need
+- Blazingly Fast JavaScript
 
 
 ## Hobby
