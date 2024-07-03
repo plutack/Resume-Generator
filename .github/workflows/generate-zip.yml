@@ -3,7 +3,7 @@ name: Convert Resume to PDF and HTML
 on:
   push:
     branches:
-      - "main" # Trigger on all branch pushes
+      - "**" # Trigger on all branch pushes
 
 jobs:
   convert_via_pandoc:
