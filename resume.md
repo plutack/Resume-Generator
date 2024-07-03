@@ -28,6 +28,13 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Tools used: React, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:
     - Github Repo: [github.com/plutack/Newspaper-Frontpage-Aggregator ](https://github.com/plutack/Newspaper-Frontpage-Aggregator)
+    - 
+### Newspaper Frontpage Aggregator  
+- Description: A simple websocket chatbot to other meals from a restaurant
+- Tools used: Htmx, css, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
+- Links:
+    - Github Repo: [github.com/plutack/Restaurant-Chat-Bot](https://github.com/plutack/Restaurant-Chat-Bot)
+    - Live Preview: [restaurant-chat-bot-taa0.onrender.com](https://restaurant-chat-bot-taa0.onrender.com)
 
 ## Technical Skills
 - Programming Langauages: Javascript, Typescript, Python, Go
