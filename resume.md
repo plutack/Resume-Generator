@@ -25,23 +25,25 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### Newspaper Frontpage Aggregator  
 - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
-- Tools used: React, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, 
-- Links:
-    - Github Repo: [github.com/plutack/Newspaper-Frontpage-Aggregator ](https://github.com/plutack/Newspaper-Frontpage-Aggregator)
+- Tools used: React, Javascript, Typescript. MongoDB ,Mongoose, NodeJS , Expressjs, 
+- Links:Aggregator
+    - Github Repo: 
+      - [Frontend ](https://github.com/plutack/frontpages-frontend)
+      - [Backend](https://github.com/plutack/frontpages-backend)
+    - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
 ### Newspaper Frontpage Aggregator  
-- Description: A simple websocket chatbot to other meals from a restaurant
-- Tools used: Htmx, css, Javascript, MongoDB ,Mongoose, NodeJS , Expressjs, Cloudinary services
+- Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+- Tools used: Markdown, Yaml, Github actions, CI/CD
 - Links:
-    - Github Repo: [github.com/plutack/Restaurant-Chat-Bot](https://github.com/plutack/Restaurant-Chat-Bot)
-    - Live Preview: [restaurant-chat-bot-taa0.onrender.com](https://restaurant-chat-bot-taa0.onrender.com)
+    - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
 ## Technical Skills
-- Programming Langauages: Javascript, Typescript, Python, Go
+- Programming Langauages: Javascript, Typescript
 - Technologies & Frameworks
   - Frontend: HTML, HTMX, CSS, JS, ReactJS
   - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
-- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows
+- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows, Docker
 
 ## Courses
 - FrontendMasters: Everything You'll Need to Know About Git 
