@@ -23,7 +23,14 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ## Projects
 
-### Newspaper Frontpage Aggregator  
+### Scissor  
+- Description: A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
+- Tools used: Typescript,Shadcn,  Nextjs, Node, Npm
+- Links:
+    - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
+    - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
+
+### Frontpages  
 - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
 - Tools used: React, Javascript, Typescript. MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:Aggregator
@@ -32,7 +39,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
       - [Backend](https://github.com/plutack/frontpages-backend)
     - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
-### Newspaper Frontpage Aggregator  
+### Resume Generator  
 - Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
 - Tools used: Markdown, Yaml, Github actions, CI/CD
 - Links:
