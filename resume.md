@@ -59,7 +59,6 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - FrontendMasters: The Last Algorithms Course You'll Need
 - Blazingly Fast JavaScript
 
-
 ## Hobby
 - Gaming
 - Reading progressive fantasy literature
