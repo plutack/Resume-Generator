@@ -25,6 +25,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### Scissor  
 - Description: A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
+- Impact: Reduced the time required for users to generate and share shortened URLs by 80%, improving efficiency in link management for marketing campaigns.
 - Tools used: Typescript,Shadcn,  Nextjs, Node, Npm
 - Links:
     - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
@@ -41,6 +42,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### Resume Generator  
 - Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+- Impact: Saved significant time for users by automating CV generation, with each application created as a branch, allowing easy refactoring for similar roles. Estimated to have reduced the time spent on manual CV adjustments by 70%.
 - Tools used: Markdown, Yaml, Github actions, CI/CD
 - Links:
     - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
