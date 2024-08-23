@@ -33,6 +33,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### Frontpages  
 - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
+- Impact: Reduced the time to access news across individual sites by 90%, providing users with a single platform to view top headlines, which improved user engagement by 50%.
 - Tools used: React, Javascript, Typescript. MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:Aggregator
     - Github Repo: 
@@ -58,6 +59,7 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - FrontendMasters: Everything You'll Need to Know About Git 
 - FrontendMasters: The Last Algorithms Course You'll Need
 - Blazingly Fast JavaScript
+
 
 ## Hobby
 - Gaming
