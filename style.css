@@ -4,13 +4,20 @@ html {
 }
 
 body {
-  display: block;
-  max-width: 700px;
-  margin: auto;
-  padding: 0;
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+  height: 100vh;          
+  margin: 0;
   font-family: Roboto;
   font-size: 15px;
+  text-align: center;
 }
+
+.container {
+  max-width: 700px;
+}
+
 
 .name {
   font-size: 150%;

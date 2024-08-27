@@ -1,5 +1,6 @@
 <link rel="stylesheet"  href="./style.css">
 
+<div class="container">
 <span class="name">Talut Salako</span>
 
 <span class="basic-information">
@@ -56,4 +57,4 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Gaming
 - Reading progressive fantasy literature
 - Exploring diverse web content
-
+</div>
