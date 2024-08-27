@@ -6,7 +6,7 @@ html {
 body {
   display: block;
   max-width: 700px;
-  margin: 0 auto;
+  margin: auto;
   padding: 0;
   font-family: Roboto;
   font-size: 15px;
