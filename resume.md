@@ -55,13 +55,6 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 
 ### AltSchool Africa  <span class="time">Sep 2023 – Aug 2024</span>
 
-
-## Courses
-- FrontendMasters: Everything You'll Need to Know About Git 
-- FrontendMasters: The Last Algorithms Course You'll Need
-- Blazingly Fast JavaScript
-
-
 ## Hobby
 - Gaming
 - Reading progressive fantasy literature
