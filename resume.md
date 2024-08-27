@@ -14,12 +14,15 @@
 </span>
 
 
-## About Me
+## Objective Summary
 As a self-taught backend developer, my journey has been fueled by a deep passion for JavaScript and a relentless curiosity for emerging technologies. I thrive on transforming complex ideas into elegant, scalable solutions, leveraging my expertise in building robust APIs and optimizing database performance. Beyond coding, you'll often find me immersed in tech articles, constantly seeking new insights to refine my craft and stay ahead in this fast-paced industry. I am driven by the challenge of solving real-world problems and the satisfaction of seeing my solutions make a meaningful impact.
 
-## Education
-
-### AltSchool Africa  <span class="time">Sep 2023 – Present</span>
+## Technical Skills
+- Programming Langauages: Javascript, Typescript
+- Technologies & Frameworks
+  - Frontend: HTML, HTMX, CSS, JS, ReactJS
+  - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
+- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows, Docker
 
 ## Projects
 
@@ -48,12 +51,10 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Links:
     - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
-## Technical Skills
-- Programming Langauages: Javascript, Typescript
-- Technologies & Frameworks
-  - Frontend: HTML, HTMX, CSS, JS, ReactJS
-  - Backend: NodeJS, Javascript and Typescript, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
-- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows, Docker
+## Education
+
+### AltSchool Africa  <span class="time">Sep 2023 – Aug 2024</span>
+
 
 ## Courses
 - FrontendMasters: Everything You'll Need to Know About Git 
