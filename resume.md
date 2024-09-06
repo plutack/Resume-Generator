@@ -37,8 +37,8 @@ As a self-taught backend developer, my journey has been fueled by a deep passion
 - Tools used: React, Javascript, Typescript. MongoDB ,Mongoose, NodeJS , Expressjs, 
 - Links:Aggregator
     - Github Repo: 
-      - [Frontend ](https://github.com/plutack/frontpages-frontend)
-      - [Backend](https://github.com/plutack/frontpages-backend)
+      - Frontend: [https://github.com/plutack/frontpages-frontend (https://github.com/plutack/frontpages-frontend)
+      - Backend: [https://github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
     - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
 ### Resume Generator  
