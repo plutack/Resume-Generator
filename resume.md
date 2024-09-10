@@ -11,7 +11,7 @@
 </span>
 
 
-## About Me
+## Objective Summary
 As a software engineer, my journey has been fueled by a deep passion for JavaScript and a relentless curiosity for emerging technologies. I thrive on transforming complex ideas into elegant, scalable solutions, leveraging my expertise in building robust APIs and optimizing database performance. Beyond coding, you'll often find me immersed in tech articles and videos, constantly seeking new insights to refine my craft and stay ahead in this fast-paced industry. I am driven by the challenge of solving real-world problems and the satisfaction of seeing my solutions make a meaningful impact.
 
 ## Technical Skills
