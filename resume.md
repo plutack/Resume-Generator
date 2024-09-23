@@ -49,6 +49,8 @@ As a software engineer, my journey has been fueled by a deep passion for JavaScr
 ## Education
 ### University of Ibadan  <span class="time">Sep 2016 – July 2024</span>
 Bachelor of Science in Mechanical Engineering
+
+
 ### AltSchool Africa  <span class="time">Sep 2023 – Aug 2024</span>
 Diploma in Backend Engineering`
 
