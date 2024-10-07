@@ -1,3 +1,7 @@
+---
+geometry: margin=10%
+---
+
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
