@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
-<span role="name">TALUT SALAKO</span>
-<span role="role">Backend Engineer</span>
+<span class="intro">TALUT SALAKO</span>
+<span class="intro">Backend Engineer</span>
 [![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940) | 
 [![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com) | 
 <a href="https://github.com/plutack" target="_blank">
@@ -75,8 +75,3 @@ Bachelor of Science in Mechanical Engineering
 
 ### AltSchool Africa  <span class="time">Sep 2023 – Aug 2024</span>
 Diploma in Backend Engineering`
-
-## Hobby
-- Gaming
-- Reading progressive fantasy literature
-- Exploring diverse web content

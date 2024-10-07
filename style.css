@@ -11,15 +11,14 @@ body {
   margin: 10% auto;
   padding: 0;
   font-family: "Jost", Roboto;
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .container {
   max-width: 80%;
 }
 
-#name,
-#role {
+.intro {
   font-size: 150%;
   line-height: 150%;
   font-weight: bold;
