@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
 html {
   padding: 0;
@@ -8,17 +8,18 @@ html {
 body {
   display: block;
   max-width: 80%;
-  margin: 0 auto;
+  margin: 10% auto;
   padding: 0;
-  font-family: "DM Sans", Roboto;
-  font-size: 17px;
+  font-family: "Jost", Roboto;
+  font-size: 18px;
 }
 
 .container {
   max-width: 80%;
 }
 
-.name {
+#name,
+#role {
   font-size: 150%;
   line-height: 150%;
   font-weight: bold;

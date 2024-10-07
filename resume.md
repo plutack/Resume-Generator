@@ -1,8 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
-<span class="name">Talut Salako</span>
-
-<span class="basic-information">
+<span role="name">TALUT SALAKO</span>
+<span role="role">Backend Engineer</span>
 [![Phone](./assets/phone-solid.svg) (+234)-810-466-7940 ](tel:+2348104667940) | 
 [![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com) | 
 <a href="https://github.com/plutack" target="_blank">
@@ -11,14 +10,31 @@
 </span>
 
 
-## Objective Summary
-As a software engineer, my journey has been fueled by a deep passion for JavaScript and a relentless curiosity for emerging technologies. I thrive on transforming complex ideas into elegant, scalable solutions, leveraging my expertise in building robust APIs and optimizing database performance. Beyond coding, you'll often find me immersed in tech articles and videos, constantly seeking new insights to refine my craft and stay ahead in this fast-paced industry. I am driven by the challenge of solving real-world problems and the satisfaction of seeing my solutions make a meaningful impact.
+## Experience
 
-## Technical Skills
-- Langauages and Scripting: Javascript, Typescript, python, shell scripting, SQL, Basic Go
-- Technologies & Frameworks: HTML, HTMX, CSS, TailwindCSS, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
-- Tools & Enviroments: Helix, Neovim, Visual Studio Code, Terminal (Unix, Windows), GIT and Github, CI/CD workflows, Docker
+### Freelance Developer
+*Aug, 2024*
+- Key Responsibilities:
+    - Developed the bot using Node.js and the Telegram API for seamless user interaction.
+    - Integrated blockchain technology to facilitate secure wallet connections and automate cryptocurrency transactions.
+    - Implemented error handling and optimized performance for real-time updates and wallet synchronization.
+- Impact:
+    - Enabled users to easily perform TON swaps within the Telegram interface, increasing transaction efficiency.
+    - Reduced manual intervention for cryptocurrency transactions, providing a streamlined, user-friendly experience.
 
+
+### Backend Software Engineer
+**Altschool Africa**
+*Sept, 2023 - Aug, 2024*
+- Key Responsibilities:
+    - Completed advanced projects focusing on full-stack development, using a variety of modern technologies.
+    - Built, tested, and deployed applications with emphasis on scalability and user-centric design.
+    - Collaborated with other bootcamp participants in code reviews, debugging, and agile workflows.
+
+- Impact:
+    - Successfully completed projects that demonstrated a strong understanding of backend and frontend systems.
+    - Improved proficiency in handling real-time data processing and search functionality, making significant strides in backend optimization.
+    
 ## Projects
 
 - ### Scissor  
@@ -33,7 +49,7 @@ As a software engineer, my journey has been fueled by a deep passion for JavaScr
     - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
     - Impact: Reduced the time to access news across individual sites by 90%, providing users with a single platform to view top headlines, which improved user engagement in keeping up to date by 50%.
     - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
-    - Links:Aggregator
+    - Links:
         - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
         - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
@@ -43,6 +59,14 @@ As a software engineer, my journey has been fueled by a deep passion for JavaScr
     - Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
     - Links:
         - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
+
+## Technical Skills
+- Langauages and Scripting: Javascript, Typescript, python, GO, SQL
+- Technologies & Frameworks: HTML, HTMX, CSS, TailwindCSS, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
+- Tools & Enviroments: Helix, Visual Studio Code, Terminal (Unix, Windows), Docker
+- Version Control: Github actions
+- Scripting: Bash
+- CI/CD: Github actions
 
 ## Education
 ### University of Ibadan  <span class="time">Sep 2016 – July 2024</span>
