@@ -15,6 +15,8 @@
 
 ### Freelance Developer
 *Aug, 2024*
+
+
 - Key Responsibilities:
     - Developed the bot using Node.js and the Telegram API for seamless user interaction.
     - Integrated blockchain technology to facilitate secure wallet connections and automate cryptocurrency transactions.
@@ -26,8 +28,12 @@
 
 ### Backend Software Engineer
 **Altschool Africa**
+
+
 *Sept, 2023 - Aug, 2024*
-- Key Responsibilities:
+
+
+ - Key Responsibilities:
     - Completed advanced projects focusing on full-stack development, using a variety of modern technologies.
     - Built, tested, and deployed applications with emphasis on scalability and user-centric design.
     - Collaborated with other bootcamp participants in code reviews, debugging, and agile workflows.
@@ -38,25 +44,20 @@
     
 ## Projects
 
-- ### Scissor  
-    - Description: A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
-    - Impact: Reduced the time required for users to generate and share shortened URLs by 80%, improving efficiency in link management for marketing campaigns.
+- **Scissor:** A URL shortening service .
     - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
     - Links:
         - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
         - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
 
-- ### Frontpages  
-    - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
-    - Impact: Reduced the time to access news across individual sites by 90%, providing users with a single platform to view top headlines, which improved user engagement in keeping up to date by 50%.
+
+- **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria with related artilces written on headlines.
     - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
     - Links:
         - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
         - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
-- ### Resume Generator  
-    - Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
-    - Impact: Saved significant time for users by automating CV generation, with each application created as a branch, allowing easy refactoring for similar roles. Estimated to have reduced the time spent on manual CV adjustments by 70%.
+- **Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
     - Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
     - Links:
         - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
