@@ -14,10 +14,9 @@
 ## Experience
 
 ### Freelance Developer
-*Aug, 2024*
+Aug, 2024*
 
-
-- Key Responsibilities:
+Key Responsibilities:
     - Developed the bot using Node.js and the Telegram API for seamless user interaction.
     - Integrated blockchain technology to facilitate secure wallet connections and automate cryptocurrency transactions.
     - Implemented error handling and optimized performance for real-time updates and wallet synchronization.
@@ -26,41 +25,40 @@
     - Reduced manual intervention for cryptocurrency transactions, providing a streamlined, user-friendly experience.
 
 
-### Backend Software Engineer
+### Backend Software Engineer <span class="time">Sep 2016 – July 2024</span>
 **Altschool Africa**
 
 
-*Sept, 2023 - Aug, 2024*
+Key Responsibilities:
+- Completed advanced projects focusing on full-stack development, using a variety of modern technologies.
+- Built, tested, and deployed applications with emphasis on scalability and user-centric design.
+- Collaborated with other bootcamp participants in code reviews, debugging, and agile workflows.
 
 
- - Key Responsibilities:
-    - Completed advanced projects focusing on full-stack development, using a variety of modern technologies.
-    - Built, tested, and deployed applications with emphasis on scalability and user-centric design.
-    - Collaborated with other bootcamp participants in code reviews, debugging, and agile workflows.
-
-- Impact:
-    - Successfully completed projects that demonstrated a strong understanding of backend and frontend systems.
-    - Improved proficiency in handling real-time data processing and search functionality, making significant strides in backend optimization.
+Impact:
+- Successfully completed projects that demonstrated a strong understanding of backend and frontend systems.
+- Improved proficiency in handling real-time data processing and search functionality, making significant strides in backend optimization.
     
 ## Projects
 
-- **Scissor:** A URL shortening service .
-    - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
-    - Links:
-        - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
-        - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
+**Scissor:** A URL shortening service .
+- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
+- Links:
+    - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
+    - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
 
 
-- **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria with related artilces written on headlines.
-    - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
-    - Links:
-        - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
-        - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
+**Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria with related artilces written on headlines.
+- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
+- Links:
+    - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
+    - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
-- **Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
-    - Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
-    - Links:
-        - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
+
+**Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+- Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
+- Links:
+    - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
 ## Technical Skills
 - Langauages and Scripting: Javascript, Typescript, python, GO, SQL
