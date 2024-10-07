@@ -13,8 +13,8 @@
 
 ## Experience
 
-### Freelance Developer
-Aug, 2024*
+### Freelance Developer <span class="time">Aug 2024</span>
+
 
 Key Responsibilities:
     - Developed the bot using Node.js and the Telegram API for seamless user interaction.
@@ -25,7 +25,7 @@ Key Responsibilities:
     - Reduced manual intervention for cryptocurrency transactions, providing a streamlined, user-friendly experience.
 
 
-### Backend Software Engineer <span class="time">Sep 2016 – July 2024</span>
+### Backend Software Engineer <span class="time">Sept 2016 – July 2024</span>
 **Altschool Africa**
 
 
