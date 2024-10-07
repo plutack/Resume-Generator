@@ -21,30 +21,28 @@ As a software engineer, my journey has been fueled by a deep passion for JavaScr
 
 ## Projects
 
-### Scissor  
-- Description: A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
-- Impact: Reduced the time required for users to generate and share shortened URLs by 80%, improving efficiency in link management for marketing campaigns.
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
-- Links:
-    - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
-    - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
+- ### Scissor  
+    - Description: A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
+    - Impact: Reduced the time required for users to generate and share shortened URLs by 80%, improving efficiency in link management for marketing campaigns.
+    - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
+    - Links:
+        - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
+        - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
 
-### Frontpages  
-- Description: A site that showcase the frontpage of some popular newspapers in Nigeria
-- Impact: Reduced the time to access news across individual sites by 90%, providing users with a single platform to view top headlines, which improved user engagement in keeping up to date by 50%.
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
-- Links:Aggregator
-    - Github Repo: 
-      - Frontend: [github.com/plutack/frontpages-frontend](https://github.com/plutack/frontpages-frontend)
-      - Backend: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
-    - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
+- ### Frontpages  
+    - Description: A site that showcase the frontpage of some popular newspapers in Nigeria
+    - Impact: Reduced the time to access news across individual sites by 90%, providing users with a single platform to view top headlines, which improved user engagement in keeping up to date by 50%.
+    - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
+    - Links:Aggregator
+        - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
+        - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
-### Resume Generator  
-- Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
-- Impact: Saved significant time for users by automating CV generation, with each application created as a branch, allowing easy refactoring for similar roles. Estimated to have reduced the time spent on manual CV adjustments by 70%.
-- Tech Stack: Markdown, css, pandoc, GitHub Actions
-- Links:
-    - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
+- ### Resume Generator  
+    - Description: A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+    - Impact: Saved significant time for users by automating CV generation, with each application created as a branch, allowing easy refactoring for similar roles. Estimated to have reduced the time spent on manual CV adjustments by 70%.
+    - Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
+    - Links:
+        - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
 ## Education
 ### University of Ibadan  <span class="time">Sep 2016 – July 2024</span>
