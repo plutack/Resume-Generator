@@ -14,34 +14,25 @@
 ## Experience
 
 ### Freelance Developer <span class="time">Aug 2024</span>
-
-
-Key Responsibilities:
-    - Developed the bot using Node.js and the Telegram API for seamless user interaction.
-    - Integrated blockchain technology to facilitate secure wallet connections and automate cryptocurrency transactions.
-    - Implemented error handling and optimized performance for real-time updates and wallet synchronization.
-- Impact:
-    - Enabled users to easily perform TON swaps within the Telegram interface, increasing transaction efficiency.
-    - Reduced manual intervention for cryptocurrency transactions, providing a streamlined, user-friendly experience.
+- Developed the bot using Node.js and the Telegram API for seamless user interaction.
+- Integrated blockchain technology to facilitate secure wallet connections and automate cryptocurrency transactions.
+- Implemented error handling and optimized performance for real-time updates and wallet synchronization.
+- Enabled users to easily perform TON swaps within the Telegram interface, increasing transaction efficiency.
+- Reduced manual intervention for cryptocurrency transactions, providing a streamlined, user-friendly experience.
 
 
 ### Backend Software Engineer <span class="time">Sept 2016 – July 2024</span>
-**Altschool Africa**
-
-
-Key Responsibilities:
+### Altschool Africa
 - Completed advanced projects focusing on full-stack development, using a variety of modern technologies.
 - Built, tested, and deployed applications with emphasis on scalability and user-centric design.
-- Collaborated with other bootcamp participants in code reviews, debugging, and agile workflows.
-
-
-Impact:
-- Successfully completed projects that demonstrated a strong understanding of backend and frontend systems.
+- Collaborated and learnt with colleagues in code reviews, debugging, and agile workflows.
 - Improved proficiency in handling real-time data processing and search functionality, making significant strides in backend optimization.
     
 ## Projects
 
 **Scissor:** A URL shortening service .
+
+
 - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
 - Links:
     - Github Repo: [github.com/plutack/scissor](https://github.com/plutack/scissor)
@@ -49,6 +40,8 @@ Impact:
 
 
 **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria with related artilces written on headlines.
+
+
 - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs, Docker
 - Links:
     - Github Repo: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
@@ -56,6 +49,8 @@ Impact:
 
 
 **Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+
+
 - Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
 - Links:
     - Github Repo: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
