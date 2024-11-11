@@ -1,4 +1,4 @@
-# Variables
+SHELL := /bin/bash
 OUTPUT_DIR = output
 
 all: $(OUTPUT_DIR)/resume.html $(OUTPUT_DIR)/resume.pdf
