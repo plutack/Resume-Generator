@@ -26,7 +26,7 @@
 - Reduced manual intervention for cryptocurrency transactions, providing a
   streamlined, user-friendly experience.
 
-### Backend Software Engineer <span class="time">Sept 2016 – July 2024</span>
+### Backend Software Engineer <span class="time">Sept 2024 – July 2024</span>
 
 ### Altschool Africa
 
@@ -70,7 +70,7 @@ and HTML versions of CVs for easy refactoring and user applications.
 
 ## Technical Skills
 
-- Langauages and Scripting: Javascript, Typescript, python, GO, SQL
+- Languages and Scripting: Javascript, Typescript, python, GO, SQL
 - Technologies & Frameworks: HTML, HTMX, CSS, TailwindCSS, React, NextJS,
   NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
 - Tools & Enviroments: Helix, Visual Studio Code, Terminal (Unix, Windows),
