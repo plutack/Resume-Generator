@@ -3,12 +3,13 @@
 <span class="intro">TALUT SALAKO</span>
 <span class="intro">Backend Engineer</span>
 <span class="basic-information">
-[![Phone](./assets/phone-solid.svg) (+234)-810-466-7940](tel:+2348104667940) |
-[![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
-|
-<a href="https://github.com/plutack" target="_blank">
-<img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
-</a>
+  [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
+  <span class="separator">|</span>
+  [![Mail](https://img.icons8.com/material-rounded/20/mail.png) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
+  <span class="separator">|</span>
+  <a href="https://github.com/plutack" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/20/github.png" alt="GitHub" /> github.com/plutack
+  </a>
 </span>
 
 ## Experience
