@@ -69,6 +69,8 @@ and HTML versions of CVs for easy refactoring and user applications.
   - Github Repo:
     [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
+<div class="page-break"></div>
+
 ## Technical Skills
 
 - Languages and Scripting: Javascript, Typescript, python, GO, SQL
