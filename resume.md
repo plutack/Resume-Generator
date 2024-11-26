@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro">Backend Engineer</span>
+<span class="intro">SOFTWARE ENGINEER </span>
 <span class="basic-information">
   [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
@@ -44,8 +44,7 @@
 
 **Scissor:** A URL shortening service .
 
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
-  MySQL, RESTful APIs
+- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MySQL, Prisma 
 - Links:
   - Github Repo:
     [github.com/plutack/scissor](https://github.com/plutack/scissor)
@@ -54,22 +53,31 @@
 **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria
 with related artilces written on headlines.
 
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
-  MySQL, RESTful APIs, Docker
+- Tech Stack: Typescript, React, NextJS, NodeJS, HonoJS, MongoDB, Mongoose, Docker
 - Links:
   - Github Repo:
     [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
   - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
 
+**Gemini Helper:** A browser extension that uses gemini api to get context of a cropped section of a
+webpage.
+
+- Tech Stack: Deno, Typescript 
+- Links:
+  - Github Repo:
+    [github.com/plutack/gemini-helper](https://github.com/plutack/gemini-helper)
+
+ 
+<div class="page-break"></div>
+
 **Resume Generator:** A project that leverages GitHub Actions to generate PDF
 and HTML versions of CVs for easy refactoring and user applications.
 
-- Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
+- Tech Stack: Markdown, HTML, CSS, Pandoc, GitHub Actions, Make
 - Links:
   - Github Repo:
     [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
-<div class="page-break"></div>
 
 ## Technical Skills
 
@@ -84,7 +92,7 @@ and HTML versions of CVs for easy refactoring and user applications.
 
 ## Education
 
-### University of Ibadan <span class="time">Sep 2016 – July 2024</span>
+### University of Ibadan <span class="time">Feb 2017 – July 2024</span>
 
 Bachelor of Science in Mechanical Engineering
 
