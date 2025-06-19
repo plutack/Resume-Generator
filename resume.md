@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro">Backend Engineer</span>
+<span class="intro">Fullstack Engineer</span>
 <span class="basic-information">
   [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
@@ -12,35 +12,47 @@
   </a>
 </span>
 
+## Summary
+Eager aspiring Fullstack Engineer with foundational frontend (React) and backend (Go, TypeScript, Node.js) skills. Passionate about building intuitive UIs and robust, scalable server-side logic. Proven through projects in web development, crypto, and monitoring. Keen to contribute to innovative projects and grow within a team.
 ## Experience
 
-### Freelance Developer <span class="time">Aug 2024</span>
+### Network Engineer Trainee | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Present</span> 
 
-- Developed the bot using Node.js and the Telegram API for seamless user
-  interaction.
-- Integrated blockchain technology to facilitate secure wallet connections and
-  automate cryptocurrency transactions.
-- Implemented error handling and optimized performance for real-time updates and
-  wallet synchronization.
-- Enabled users to easily perform TON swaps within the Telegram interface,
-  increasing transaction efficiency.
-- Reduced manual intervention for cryptocurrency transactions, providing a
-  streamlined, user-friendly experience.
+  - Automated daily alarm sheet generation in XLSX format, reducing manual reporting time by 40%.
 
-### Backend Software Engineer <span class="time">Sept 2024 – July 2024</span>
+  - Optimized data retrieval and formatting, improving accuracy and efficiency of alarm reports.
 
-### Altschool Africa
+  - Integrated the system with existing infrastructure, streamlining monitoring workflows.
 
-- Completed advanced projects focusing on full-stack development, using a
-  variety of modern technologies.
-- Built, tested, and deployed applications with emphasis on scalability and
-  user-centric design.
-- Collaborated and learnt with colleagues in code reviews, debugging, and agile
-  workflows.
-- Improved proficiency in handling real-time data processing and search
-  functionality, making significant strides in backend optimization.
+### Freelance Developer | Remote  
+
+  - Developed a Telegram bot using Node.js and the Telegram API for seamless crypto transactions.
+
+  - Integrated blockchain technology, automating secure wallet connections and transactions.
+
+  - Implemented real-time error handling and optimized performance for instant wallet synchronization.
+
+  - Reduced manual intervention in TON swaps, improving transaction speed by 30%.
+
+### Backend Engineer (Fullstack Experience) | Altschool Africa <span class="time">Sept 2023 - Aug 2024</span>
+
+ - Built and deployed full-stack applications, focusing on scalability and performance using various modern technologies.
+ 
+ - Improved real-time data processing for backend services, reducing latency by 25%.
+
+ - Collaborated in agile workflows, contributing to debugging, peer code reviews, and feature implementation across the stack.kkjj
+
 
 ## Projects
+
+**Seedrlike**: A fullstack file management system enabling users to download torrents over HTTP.
+
+- Tech Stack: Backend: Go, MySQL, Gorilla; Frontend: HTMX, Templ (Go-based templating for dynamic UI)
+- Links:
+    - Github:
+      [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike)
+    - Live: [torrent.talut.tech](https://torrent.talut.tech)
+
 
 **Scissor:** A URL shortening service .
 
@@ -49,7 +61,9 @@
 - Links:
   - Github Repo:
     [github.com/plutack/scissor](https://github.com/plutack/scissor)
-  - Live Preview: [scissor.talut.tech](https://scissor.talut.tech)
+  - Live: [scissor.talut.tech](https://scissor.talut.tech)
+
+<div class="page-break"></div>
 
 **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria
 with related artilces written on headlines.
@@ -57,9 +71,10 @@ with related artilces written on headlines.
 - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
   MySQL, RESTful APIs, Docker
 - Links:
+[scissor.talut.tech](https://scissor.talut.tech)
   - Github Repo:
     [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
-  - Live Preview: [frontpages.talut.tech](https://frontpages.talut.tech)
+  - Live: [frontpages.talut.tech](https://frontpages.talut.tech)
 
 **Resume Generator:** A project that leverages GitHub Actions to generate PDF
 and HTML versions of CVs for easy refactoring and user applications.
@@ -69,7 +84,6 @@ and HTML versions of CVs for easy refactoring and user applications.
   - Github Repo:
     [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
 
-<div class="page-break"></div>
 
 ## Technical Skills
 
