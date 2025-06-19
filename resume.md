@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro">Fullstack Engineer</span>
+<span class="intro">Backend Engineer</span>
 <span class="basic-information">
   [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
@@ -13,7 +13,8 @@
 </span>
 
 ## Summary
-Eager aspiring Fullstack Engineer with foundational frontend (React) and backend (Go, TypeScript, Node.js) skills. Passionate about building intuitive UIs and robust, scalable server-side logic. Proven through projects in web development, crypto, and monitoring. Keen to contribute to innovative projects and grow within a team.
+Eager aspiring Backend Engineer  with Go, TypeScript, Node.js skills. Passionate about building intuitive UIs and robust, scalable server-side logic. Proven through projects in web development, crypto, and monitoring. Keen to contribute to innovative projects and grow within a team.
+
 ## Experience
 
 ### Network Engineer Trainee | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Present</span> 
@@ -45,16 +46,25 @@ Eager aspiring Fullstack Engineer with foundational frontend (React) and backend
 
 ## Projects
 
-**Seedrlike**: A fullstack file management system enabling users to download torrents over HTTP.
+**Seedrlike**: A file management system enabling users to download torrents over HTTP.
 
-- Tech Stack: Backend: Go, MySQL, Gorilla; Frontend: HTMX, Templ (Go-based templating for dynamic UI)
+- Tech Stack: Go, MySQL, Gorilla; Frontend: HTMX, Templ 
 - Links:
     - Github:
       [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike)
     - Live: [torrent.talut.tech](https://torrent.talut.tech)
 
 
-**Scissor:** A URL shortening service .
+**Simple Wallet Api**: A REST API leveraging the intricacies of NestJS for building a lightweight digital wallet system.
+
+- Tech Stack: Typescript, NestJS 
+- Links:
+    - Github:
+      [github.com/plutack/seedrlike](https://github.com//plutack/simple-wallet-system)
+    
+<div class="page-break"></div>
+
+**Scissor:** A URL shortening service with indepth analytics for users
 
 - Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
   MySQL, RESTful APIs
@@ -63,7 +73,6 @@ Eager aspiring Fullstack Engineer with foundational frontend (React) and backend
     [github.com/plutack/scissor](https://github.com/plutack/scissor)
   - Live: [scissor.talut.tech](https://scissor.talut.tech)
 
-<div class="page-break"></div>
 
 **Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria
 with related artilces written on headlines.
