@@ -11,9 +11,10 @@
     <img src="https://img.icons8.com/ios-glyphs/20/github.png" alt="GitHub" /> github.com/plutack
   </a>
 </span>
+<div style="text-align: center;">Lagos, Nigeria</div>
 
 ## Summary
-Eager aspiring Backend Engineer  with Go, TypeScript, Node.js skills. Passionate about building intuitive UIs and robust, scalable server-side logic. Proven through projects in web development, crypto, and monitoring. Keen to contribute to innovative projects and grow within a team.
+Results-driven Backend Engineer skilled in Go, TypeScript, and Node.js, with a strong foundation in building scalable APIs, distributed systems, and developer-focused tooling. Graduated top of track at AltSchool Africa, with hands-on experience delivering production-grade projects in web infrastructure, monitoring, and automation. Eager to contribute to high-impact engineering teams and solve real-world problems through clean, performant code.
 
 ## Experience
 
@@ -25,92 +26,83 @@ Eager aspiring Backend Engineer  with Go, TypeScript, Node.js skills. Passionate
 
   - Integrated the system with existing infrastructure, streamlining monitoring workflows.
 
-### Freelance Developer | Remote  
-
+### Freelance Developer | Remote  <span class="time">June 2024 - Aug 2024</span> 
   - Developed a Telegram bot using Node.js and the Telegram API for seamless crypto transactions.
 
   - Integrated blockchain technology, automating secure wallet connections and transactions.
 
-  - Implemented real-time error handling and optimized performance for instant wallet synchronization.
-
   - Reduced manual intervention in TON swaps, improving transaction speed by 30%.
-
-### Backend Engineer (Fullstack Experience) | Altschool Africa <span class="time">Sept 2023 - Aug 2024</span>
-
- - Built and deployed full-stack applications, focusing on scalability and performance using various modern technologies.
- 
- - Improved real-time data processing for backend services, reducing latency by 25%.
-
- - Collaborated in agile workflows, contributing to debugging, peer code reviews, and feature implementation across the stack.kkjj
 
 
 ## Projects
 
 **Seedrlike**: A file management system enabling users to download torrents over HTTP.
 
-- Tech Stack: Go, MySQL, Gorilla; Frontend: HTMX, Templ 
-- Links:
-    - Github:
-      [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike)
-    - Live: [torrent.talut.tech](https://torrent.talut.tech)
+**Links**: [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike) | [torrent.talut.xyz](https://torrent.talut.xyz)
 
+- Completed over 100 torrent file and folder transfers since deployment
 
-**Simple Wallet Api**: A REST API leveraging the intricacies of NestJS for building a lightweight digital wallet system.
+- Implemented performance-optimized remote data fetching to support internet-based access
 
-- Tech Stack: Typescript, NestJS 
-- Links:
-    - Github:
-      [github.com/plutack/seedrlike](https://github.com//plutack/simple-wallet-system)
-    
-<div class="page-break"></div>
+- Designed with an intuitive UI for file preview and direct download 
 
-**Scissor:** A URL shortening service with indepth analytics for users
+**Scissor:** A URL shortening service with in-depth analytics for users
 
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
-  MySQL, RESTful APIs
-- Links:
-  - Github Repo:
-    [github.com/plutack/scissor](https://github.com/plutack/scissor)
-  - Live: [scissor.talut.tech](https://scissor.talut.tech)
+**Links**: [github.com/plutack/scissor](https://github.com/plutack/scissor) | [scissor.talut.xyz](https://scissor.talut.xyz)
 
+- Shortened 50+ URLs with tracking of geolocation, device type, browser, and referral data
 
-**Frontpages:** A Web app that showcase the frontpage of newspapers in Nigeria
-with related artilces written on headlines.
+- Leveraged IP-based and client-side parsing for accurate analytics
 
-- Tech Stack: Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose,
-  MySQL, RESTful APIs, Docker
-- Links:
-[scissor.talut.tech](https://scissor.talut.tech)
-  - Github Repo:
-    [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend)
-  - Live: [frontpages.talut.tech](https://frontpages.talut.tech)
+- Optimized API response times using in-memory caching and indexed DB queries
 
-**Resume Generator:** A project that leverages GitHub Actions to generate PDF
-and HTML versions of CVs for easy refactoring and user applications.
+**Frontpages:**A web app that displays Nigerian newspaper front pages with headlines parsed for context.
 
-- Tech Stack: Markdown,HTML, css, pandoc, GitHub Actions
-- Links:
-  - Github Repo:
-    [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
+**Links**: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend) | [frontpages.talut.xyz](https://frontpages.talut.xyz)
 
+- Reduced headline discovery and content retrieval time by 60%
 
-## Technical Skills
+- Built custom parsers for 5+ news sources using structured HTML scraping
 
-- Languages and Scripting: Javascript, Typescript, python, GO, SQL
-- Technologies & Frameworks: HTML, HTMX, CSS, TailwindCSS, React, NextJS,
-  NodeJS, ExpressJS, MongoDB, Mongoose, MySQL, RESTful APIs
-- Tools & Enviroments: Helix, Visual Studio Code, Terminal (Unix, Windows),
-  Docker
-- Version Control: Github actions
-- Scripting: Bash
-- CI/CD: Github actions
+- Ensured high content fidelity and minimal distraction through optimized UX
+
+**Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+
+**Links**: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
+
+- Automated resume generation with Makefile workflows and version control
+
+- Improved iteration speed and formatting consistency by 90%
+
+- Ensured ATS compliance and semantic markup for PDF exports
+
+## Skills
+### Technical Skills
+
+- Languages: Go | TypeScript | JavaScript | Python | SQL | HTML | CSS
+
+- Frameworks & Libraries: Node.js | Express.js | NestJS | React | Next.js | HTMX | TailwindCSS
+
+- Databases: MongoDB | Mongoose | MySQL
+
+- Dev Tools & Others: Git | Docker | Linux | REST APIs
+
+### Soft Skills
+
+- Leading the backend team to build a decentralized e-commerce platform for books, focusing on scalability and fault tolerance.
+ 
+- Actively collaborating in a team to build a Google Meet-style conferencing app aimed at enhancing virtual meeting experience.
+ 
+- Strong team communication, leadership, and problem-solving demonstrated across cross-functional projects. 
 
 ## Education
+
+### AltSchool Africa <span class="time">Sep 2023 – Aug 2024</span>
+
+Diploma in Backend Engineering
+
+- Graduated **Top of Track**
 
 ### University of Ibadan <span class="time">Sep 2016 – July 2024</span>
 
 Bachelor of Science in Mechanical Engineering
-
-### AltSchool Africa <span class="time">Sep 2023 – Aug 2024</span>
-
-Diploma in Backend Engineering`

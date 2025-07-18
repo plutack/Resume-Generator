@@ -11,11 +11,10 @@ html {
 
 body {
   display: block;
-  max-width: 80%;
-  margin: 10% auto;
+  margin: 0px, 48px;
   padding: 0;
   font-family: "Georgia", Roboto;
-  font-size: 19px;
+  font-size: 15px;
 }
 
 .container {
