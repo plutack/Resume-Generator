@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro">Backend Engineer</span>
+<span class="intro">Backend Developer</span>
 <span class="basic-information">
   [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
