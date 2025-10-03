@@ -1,20 +1,24 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"); */
 
+@page {
+  margin: 0;
+}
+
 @font-face {
   font-family: "Georgia";
   src: url("./assets/font/georgia.ttf");
 }
 html {
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
 body {
   display: block;
-  margin: 0px, 48px;
+  margin: 0px 48px;
   padding: 0;
   font-family: "Georgia", Roboto;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .container {
@@ -22,8 +26,8 @@ body {
 }
 
 .intro {
-  font-size: 150%;
-  line-height: 150%;
+  font-size: 130%;
+  line-height: 130%;
   font-weight: bold;
   display: block;
   text-align: center;
@@ -65,7 +69,7 @@ ol {
 }
 
 li {
-  line-height: 150%;
+  line-height: 130%;
   /* change this for tighter spacing */
   /* default 150% */
 }
@@ -145,4 +149,38 @@ location {
     break-before: auto;
     /* Allow breaks before a new h3, overriding previous rules */
   }
+}
+
+.project {
+  margin-bottom: 2rem;
+  padding: 1rem 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.project h3 {
+  margin-top: 0;
+  font-size: 1.3rem;
+  color: #222;
+}
+
+.project p {
+  margin: 0.3rem 0;
+}
+
+.project-links {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-tools {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 0.7rem;
+}
+
+.project ul {
+  margin-top: 0.5rem;
+  padding-left: 1.2rem;
 }

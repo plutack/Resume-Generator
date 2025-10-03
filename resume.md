@@ -1,7 +1,7 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro">Backend Developer</span>
+<span class="intro"> Backend Engineer</span>
 <span class="basic-information">
   [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
@@ -14,86 +14,83 @@
 <div style="text-align: center;">Lagos, Nigeria</div>
 
 ## Summary
-Results-driven Backend Engineer skilled in Go, TypeScript, and Node.js, with a strong foundation in building scalable APIs, distributed systems, and developer-focused tooling. Graduated top of track at AltSchool Africa, with hands-on experience delivering production-grade projects in web infrastructure, monitoring, and automation. Eager to contribute to high-impact engineering teams and solve real-world problems through clean, performant code.
+Graduate in B.Sc. Mechanical Engineering with a strong technical background in networking, software development and computer systems,   Skilled in Go, TypeScript, and Node.js, with hands-on experience in automations and backend development projects. 
 
 ## Experience
 
-### Network Engineer Trainee | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Present</span> 
+### Network & Automations Engineer  | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Present</span> 
+- Collaborated with site engineers to troubleshoot and resolve router issues remotely, improving network reliability.
 
-  - Automated daily alarm sheet generation in XLSX format, reducing manual reporting time by 40%.
+- Automated the discovery of powered on devices for remote configuration with python leading to clearing out routers from configuration bucket before they are reported.
 
-  - Optimized data retrieval and formatting, improving accuracy and efficiency of alarm reports.
+- Streamlined preparation of daily reports using Excel Power Query, boosting team efficiency.
 
-  - Integrated the system with existing infrastructure, streamlining monitoring workflows.
+- Automated daily alarm sheet generation in XLSX format using Go, reducing manual reporting time by 40%.
+
 
 ### Freelance Developer | Remote  <span class="time">June 2024 - Aug 2024</span> 
-  - Developed a Telegram bot using Node.js and the Telegram API for seamless crypto transactions.
+- Built a Telegram bot with Node.js and the Telegram API for crypto transactions.
 
-  - Integrated blockchain technology, automating secure wallet connections and transactions.
-
-  - Reduced manual intervention in TON swaps, improving transaction speed by 30%.
-
-
-## Projects
-
-**Seedrlike**: A file management system enabling users to download torrents over HTTP.
-
-**Links**: [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike) | [torrent.talut.xyz](https://torrent.talut.xyz)
-
-- Completed over 100 torrent file and folder transfers since deployment
-
-- Implemented performance-optimized remote data fetching to support internet-based access
-
-- Designed with an intuitive UI for file preview and direct download 
-
-**Scissor:** A URL shortening service with in-depth analytics for users
-
-**Links**: [github.com/plutack/scissor](https://github.com/plutack/scissor) | [scissor.talut.xyz](https://scissor.talut.xyz)
-
-- Shortened 50+ URLs with tracking of geolocation, device type, browser, and referral data
-
-- Leveraged IP-based and client-side parsing for accurate analytics
-
-- Optimized API response times using in-memory caching and indexed DB queries
-
-**Frontpages:**A web app that displays Nigerian newspaper front pages with headlines parsed for context.
-
-**Links**: [github.com/plutack/frontpages-backend](https://github.com/plutack/frontpages-backend) | [frontpages.talut.xyz](https://frontpages.talut.xyz)
-
-- Reduced headline discovery and content retrieval time by 60%
-
-- Built custom parsers for 5+ news sources using structured HTML scraping
-
-- Ensured high content fidelity and minimal distraction through optimized UX
-
-**Resume Generator:** A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
-
-**Links**: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)
-
-- Automated resume generation with Makefile workflows and version control
-
-- Improved iteration speed and formatting consistency by 90%
-
-- Ensured ATS compliance and semantic markup for PDF exports
+- Integrated blockchain wallet connections, automating secure swaps and increasing transaction speed by 30%.
 
 ## Skills
-### Technical Skills
+### Technical 
 
 - Languages: Go | TypeScript | JavaScript | Python | SQL | HTML | CSS
 
 - Frameworks & Libraries: Node.js | Express.js | NestJS | React | Next.js | HTMX | TailwindCSS
 
-- Databases: MongoDB | Mongoose | MySQL
+- Databases: MongoDB | MySQL
 
 - Dev Tools & Others: Git | Docker | Linux | REST APIs
 
-### Soft Skills
+### Professional/Interpersonal
+- Strong collaboration and communication in cross-functional teams
 
-- Leading the backend team to build a decentralized e-commerce platform for books, focusing on scalability and fault tolerance.
- 
-- Actively collaborating in a team to build a Google Meet-style conferencing app aimed at enhancing virtual meeting experience.
- 
-- Strong team communication, leadership, and problem-solving demonstrated across cross-functional projects. 
+- Leadership experience managing backend development teams
+
+- Problem-solving and adaptability in fast-paced project environments
+
+## Projects
+
+### Nadbooks (ongoing)
+An extensive API system for an online ebook store.  
+**Links**: [github.com/plutack/nadbooks-backend](https://github.com/plutack/nadbooks-backend) | [develop.nadbooks.talut.xyz/api/docs](https://develop.nadbooks.talut.xyz/api/docs)  
+**Tools**: NestJS, MySQL, Prisma, Passport, Axios, TypeScript  
+
+---
+
+### Seedrlike
+A file management system enabling users to download torrents over HTTP.  
+**Links**: [github.com/plutack/seedrlike](https://github.com/plutack/seedrlike) | [torrent.talut.xyz](https://torrent.talut.xyz)  
+**Tools**: Go, MySQL, sqlc, HTMX, AlpineJS, CSS, Goose  
+
+- Handled over 100 torrent file and folder transfers since deployment  
+- Implemented performance-optimized remote data fetching to support internet-based access  
+- Designed with an intuitive UI for file preview and direct download  
+
+---
+
+### Scissor
+A URL shortening service with in-depth analytics for users.  
+**Links**: [github.com/plutack/scissor](https://github.com/plutack/scissor) | [scissor.talut.xyz](https://scissor.talut.xyz)  
+**Tools**: NextJS, PostgreSQL, Prisma, next-auth, ky, Pino, TypeScript  
+
+- Shortened 50+ URLs with tracking of geolocation, device type, browser, and referral data  
+- Leveraged IP-based and client-side parsing for accurate analytics  
+- Optimized API response times using in-memory caching via Redis and indexed DB queries  
+
+---
+
+### Resume Generator
+A project that leverages GitHub Actions to generate PDF and HTML versions of CVs.  
+**Links**: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)  
+**Tools**: Make, Bash, Pandoc, Markdown, Wkhtmltopdf  
+
+- Automated resume generation with Makefile workflows and version control  
+- Improved iteration speed and formatting consistency by 90%  
+- Ensured ATS compliance and semantic markup for PDF exports  
+
 
 ## Education
 
