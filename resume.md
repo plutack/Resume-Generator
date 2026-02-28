@@ -1,24 +1,29 @@
 <link rel="stylesheet"  href="./style.css">
 
 <span class="intro">TALUT SALAKO</span>
-<span class="intro"> Backend Engineer</span>
+<span class="intro">FULLSTACK ENGINEER</span>
 <span class="basic-information">
-  [![Phone](https://img.icons8.com/ios-glyphs/20/phone--v1.png) (+234)-810-466-7940](tel:+2348104667940)
+  [![Phone](./assets/phone-solid.svg) (+234)-810-466-7940](tel:+2348104667940)
   <span class="separator">|</span>
-  [![Mail](https://img.icons8.com/material-rounded/20/mail.png) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
+  [![Mail](./assets/envelope-solid.svg) salakotalut@gmail.com](mailto:salakotalut@gmail.com)
   <span class="separator">|</span>
   <a href="https://github.com/plutack" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/20/github.png" alt="GitHub" /> github.com/plutack
+    <img src="./assets/github.svg" alt="GitHub" /> github.com/plutack
   </a>
 </span>
-<div style="text-align: center;">Lagos, Nigeria</div>
+<div style="text-align: center;">LAGOS, NIGERIA</div>
 
 ## Summary
-Graduate in B.Sc. Mechanical Engineering with a strong technical background in networking, software development and computer systems,   Skilled in Go, TypeScript, and Node.js, with hands-on experience in automations and backend development projects. 
+Graduate in B.Sc. Mechanical Engineering with a strong technical background in networking, software development and computer systems,   Skilled in TypeScript, Node.js and Go with hands-on experience in automations and fullstack development projects. 
 
 ## Experience
 
-### Network & Automations Engineer  | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Present</span> 
+### Backend Engineer  | Resilience17  <span class="time">Dec 2025 - Present</span> 
+- Revamped account number generation from random assignment to a custom pre-generated serial strategy, improving scalability, performance, and predictability.
+
+
+
+### Network & Automations Engineer  | Huawei Technologies Nig Ltd  <span class="time">Jan 2025 - Dec 2025</span> 
 - Collaborated with site engineers to troubleshoot and resolve router issues remotely, improving network reliability.
 
 - Automated the discovery of powered on devices for remote configuration with python leading to clearing out routers from configuration bucket before they are reported.
@@ -27,11 +32,6 @@ Graduate in B.Sc. Mechanical Engineering with a strong technical background in n
 
 - Automated daily alarm sheet generation in XLSX format using Go, reducing manual reporting time by 40%.
 
-
-### Freelance Developer | Remote  <span class="time">June 2024 - Aug 2024</span> 
-- Built a Telegram bot with Node.js and the Telegram API for crypto transactions.
-
-- Integrated blockchain wallet connections, automating secure swaps and increasing transaction speed by 30%.
 
 ## Skills
 ### Technical 
@@ -85,7 +85,7 @@ A URL shortening service with in-depth analytics for users.
 ### Resume Generator
 A project that leverages GitHub Actions to generate PDF and HTML versions of CVs.  
 **Links**: [github.com/plutack/Resume-Generator](https://github.com/plutack/Resume-Generator)  
-**Tools**: Make, Bash, Pandoc, Markdown, Wkhtmltopdf  
+**Tools**: Make, Bash, Pandoc, Markdown, weasyprint  
 
 - Automated resume generation with Makefile workflows and version control  
 - Improved iteration speed and formatting consistency by 90%  

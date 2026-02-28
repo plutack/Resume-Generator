@@ -1,24 +1,32 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"); */
 
 @page {
-  margin: 0;
+  size: 231mm 327mm;
+  margin: auto;
 }
 
 @font-face {
   font-family: "Georgia";
   src: url("./assets/font/georgia.ttf");
 }
+
+@font-face {
+  font-family: "Jost";
+  src: url("./assets/font/jost.ttf") format("truetype");
+  font-weight: 400; /* regular */
+  font-style: normal;
+}
 html {
   padding: 0px;
-  margin: 0px;
+  margin: 5px;
 }
 
 body {
   display: block;
-  margin: 0px 48px;
+  margin: 5px 48px;
   padding: 0;
   font-family: "Georgia", Roboto;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .container {
@@ -81,23 +89,29 @@ li {
 }
 
 .basic-information {
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
   gap: 10px;
-}
-
-.basic-information img {
-  /* width: 20px; */
-  /* height: 20px; */
-  vertical-align: middle;
+  text-align: center;
 }
 
 .separator {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 20px;
+  height: 18px;
   font-size: 16px;
+}
+
+.basic-information img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.separator {
+  margin: 0 2px;
 }
 
 a {
@@ -118,11 +132,6 @@ code {
 location {
   font-weight: normal;
   font-style: italic;
-}
-
-.basic-information {
-  display: block;
-  text-align: center;
 }
 
 @media print {

@@ -1,30 +1,28 @@
-OUTPUT_DIR = output
+OUTPUT_DIR := output
 
-all: $(OUTPUT_DIR)/resume.html $(OUTPUT_DIR)/resume.pdf
+HTML := $(OUTPUT_DIR)/resume.html
+PDF  := $(OUTPUT_DIR)/resume.pdf
 
-.PHONY: $(OUTPUT_DIR) clean help
+all: $(HTML) $(PDF)
 
 $(OUTPUT_DIR):
-	rm -rf $(OUTPUT_DIR)
 	mkdir -p $(OUTPUT_DIR)
-	cp style.css $(OUTPUT_DIR)/
-	cp -r assets $(OUTPUT_DIR)/
 
-$(OUTPUT_DIR)/resume.html: resume.md $(OUTPUT_DIR)
-	pandoc --standalone --output=$(OUTPUT_DIR)/resume.html --css=style.css resume.md
+$(HTML): resume.md style.css | $(OUTPUT_DIR)
+	pandoc resume.md \
+		--standalone \
+		--css=style.css \
+		-o $(HTML)
 
-$(OUTPUT_DIR)/resume.pdf: $(OUTPUT_DIR)/resume.html
-	wkhtmltopdf --enable-local-file-access \
-	  --margin-top 0 \
-	  --margin-bottom 0 \
-	  --margin-left 0 \
-	  --margin-right 0 \
-	  $(OUTPUT_DIR)/resume.html $(OUTPUT_DIR)/resume.pdf
+$(PDF): resume.md style.css | $(OUTPUT_DIR)
+	pandoc resume.md \
+		--standalone \
+		--css=style.css \
+		--resource-path=. \
+		--pdf-engine=weasyprint \
+		-o $(PDF)
 
 clean:
 	rm -rf $(OUTPUT_DIR)
 
-help:
-	@echo "Makefile for building and converting resume to PDF and HTML"
-	@echo "  make         - Build HTML and PDF versions of resume"
-	@echo "  make clean   - Clean output directory"
+.PHONY: all clean
